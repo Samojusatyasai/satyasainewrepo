@@ -23,5 +23,3 @@ WebUI.navigateToUrl('https://www.youtube.com/')
 
 WebUI.delay(0)
 
-WebUI.closeBrowser()
-
